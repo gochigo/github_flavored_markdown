@@ -16,7 +16,7 @@ Installation
 ------------
 
 ```bash
-go get -u github.com/gobuffalo/github_flavored_markdown
+go get github.com/gobuffalo/github_flavored_markdown
 ```
 
 Directories
@@ -24,9 +24,9 @@ Directories
 
 | Path                                                                                | Synopsis                                                                     |
 |-------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [gfmstyle](https://godoc.org/github.com/gobuffalo/github_flavored_markdown/gfmstyle) | Package gfmstyle contains CSS styles for rendering GitHub Flavored Markdown. |
+| [gfmstyle](https://pkg.go.dev/github.com/gobuffalo/github_flavored_markdown/gfmstyle) | Package gfmstyle contains CSS styles for rendering GitHub Flavored Markdown. |
 
 License
 -------
 
--	[MIT License](https://opensource.org/licenses/mit-license.php)
+-	[MIT License](LICENSE)
