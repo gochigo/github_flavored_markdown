@@ -13,6 +13,6 @@ require (
 	github.com/sergi/go-diff v1.2.0
 	github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d
 	github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e
-	golang.org/x/net v0.0.0-20220923203811-8be639271d50
+	golang.org/x/net v0.0.0-20221002022538-bcab6841153b
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
